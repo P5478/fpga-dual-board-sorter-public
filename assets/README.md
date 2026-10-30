@@ -3,6 +3,15 @@
 | 文件名 | 内容 | 用在 |
 |---|---|---|
 | `demo.gif` | 机械臂自动分拣演示（1.5 倍速，带网站水印） | README、docs/05 |
+| `fx-normal.gif` | 显示特效：原图 | docs/08 |
+| `fx-gray.gif` | 显示特效：灰度 | docs/08 |
+| `fx-bw.gif` | 显示特效：高对比黑白 | docs/08 |
+| `fx-gold.gif` | 显示特效：金色调 | README、docs/08 |
+| `fx-edge.gif` | 显示特效：边缘线稿 | README、docs/08 |
+| `fx-purple.gif` | 显示特效：紫色调 | docs/08 |
+| `fx-sepia.gif` | 显示特效：怀旧黄调 | docs/08 |
+| `fx-emboss.gif` | 显示特效：浮雕 | README、docs/08 |
+| `fx-quad.gif` | 显示特效：四宫格 | README、docs/08 |
 | `detect.jpg` | 静态彩色多目标识别画面（颜色/形状标签 + 中心坐标 + 延迟） | README、docs/04 |
 | `gesture-2.jpg` | 手势识别：2 根手指 | README |
 | `gesture-3.jpg` | 手势识别：3 根手指 | README |
