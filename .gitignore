@@ -1,0 +1,19 @@
+# 操作系统杂项
+.DS_Store
+Thumbs.db
+*.swp
+*~
+
+# 构建/仿真产物
+*.bit
+*.sbit
+*.vvp
+*.vcd
+*_Runs/
+log/
+*.log
+
+# 编辑器
+.idea/
+.vscode/
+*.bak

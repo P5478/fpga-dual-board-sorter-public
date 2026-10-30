@@ -1,0 +1,30 @@
+版权所有 © 2026 P5478。保留所有权利。
+Copyright © 2026 P5478. All rights reserved.
+
+本仓库（以下简称"本项目"）中的全部内容，包括但不限于文档、图片、
+Verilog 源代码骨架、通用模块代码及相关说明，均受著作权法保护。
+
+【允许】
+  1. 在线浏览本仓库内容；
+  2. 出于学习、研究目的阅读和引用本项目文档中的设计思路，
+     引用时须注明出处。
+
+【禁止】
+  1. 复制、修改、翻译、分发本项目内容（全部或部分），
+     无论是否用于商业目的；
+  2. 将本项目内容用于任何商业用途；
+  3. 基于本仓库内容（包括文档描述、接口设计与代码骨架）
+     开发、复刻同类系统或产品；
+  4. 移除或修改本版权声明。
+
+本仓库为公开预览版，不包含完整实现。作者不因本仓库的公开
+而授予任何专利许可或隐含许可。
+
+如需获得完整实现、合作或商业授权，请通过 GitHub 联系作者。
+
+────────────────────────────────────────────────────────────
+This repository is provided for viewing purposes only.
+No permission is granted to copy, modify, distribute, or use
+any part of its contents, in source or binary form, for any
+purpose, including developing or reproducing a similar system.
+All rights reserved.
