@@ -2,7 +2,7 @@
 
 | 文件名 | 内容 | 用在 |
 |---|---|---|
-| `demo.gif` | 机械臂自动分拣演示（1.5 倍速，带网站水印） | README、docs/05 |
+| `demo.gif` | 机械臂自动分拣演示（1.8 倍速，带网站水印） | README、docs/05 |
 | `fx-normal.gif` | 显示特效：原图 | docs/08 |
 | `fx-gray.gif` | 显示特效：灰度 | docs/08 |
 | `fx-bw.gif` | 显示特效：高对比黑白 | docs/08 |
