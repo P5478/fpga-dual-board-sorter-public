@@ -12,6 +12,10 @@
 | `fx-sepia.gif` | 显示特效：怀旧黄调 | docs/08 |
 | `fx-emboss.gif` | 显示特效：浮雕 | README、docs/08 |
 | `fx-snapshot.gif` | 显示特效：快照模式 | README、docs/08 |
+| `fx-cycle.gif` | 显示特效快速巡览（灰度→黑白→金色→线稿，3 倍速） | README、docs/08 |
+| `det-label.gif` | 静态彩色多目标实时跟踪（标签 + 坐标） | docs/04 |
+| `det-mask.gif` | 掩膜模式：二值化后的目标形状 | docs/04 |
+| `gesture-count.gif` | 手势计数 1→5 连续演示 | README、docs/04 |
 | `detect.jpg` | 静态彩色多目标识别画面（颜色/形状标签 + 中心坐标 + 延迟） | README、docs/04 |
 | `gesture-2.jpg` | 手势识别：2 根手指 | README |
 | `gesture-3.jpg` | 手势识别：3 根手指 | README |
