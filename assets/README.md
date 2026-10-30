@@ -2,6 +2,7 @@
 
 | 文件名 | 内容 | 用在 |
 |---|---|---|
+| `demo.gif` | 机械臂自动分拣演示（1.5 倍速，带网站水印） | README、docs/05 |
 | `detect.jpg` | 静态彩色多目标识别画面（颜色/形状标签 + 中心坐标 + 延迟） | README、docs/04 |
 | `gesture-2.jpg` | 手势识别：2 根手指 | README |
 | `gesture-3.jpg` | 手势识别：3 根手指 | README |
