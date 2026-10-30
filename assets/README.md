@@ -11,7 +11,7 @@
 | `fx-purple.gif` | 显示特效：紫色调 | docs/08 |
 | `fx-sepia.gif` | 显示特效：怀旧黄调 | docs/08 |
 | `fx-emboss.gif` | 显示特效：浮雕 | README、docs/08 |
-| `fx-quad.gif` | 显示特效：四宫格 | README、docs/08 |
+| `fx-snapshot.gif` | 显示特效：快照模式 | README、docs/08 |
 | `detect.jpg` | 静态彩色多目标识别画面（颜色/形状标签 + 中心坐标 + 延迟） | README、docs/04 |
 | `gesture-2.jpg` | 手势识别：2 根手指 | README |
 | `gesture-3.jpg` | 手势识别：3 根手指 | README |
